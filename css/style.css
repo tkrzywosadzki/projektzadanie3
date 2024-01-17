@@ -1,3 +1,75 @@
+/*global*/
+.btn {
+  display: inline-block;
+  min-width: 160px;
+  margin: 0 auto 0 auto;
+  padding: 16px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  background-color: #f1c40f;
+  font-family: "Montserrat", sans-serif;
+}
 
+/*header*/
+.header {
+  min-width: 1400px;
+  min-height: 700px;
+  background-image: url(https://i.postimg.cc/3JH0rnb2/pexels-willian-justen-de-vasconcellos-792345.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-color: grey;
+  background-blend-mode: multiply;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+.header .logo {
+  text-align: center;
+  margin: 20px 0px;
+  padding-top: 30px;
+  font-size: 26px;
+}
+
+.header .logo a {
+  color: #f1c40f;
+  text-decoration: none;
+  font-family: "Dancing Script", cursive;
+}
+
+.header .menubar {
+  text-align: center;
+  margin: 20px 0px;
+  padding-top: 40px;
+  font-size: 14px;
+}
+
+.header .menubar a {
+  color: white;
+  text-decoration: none;
+  padding-right: 40px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.header .splashtext {
+  text-align: center;
+  color: white;
+  padding-top: 120px;
+}
+
+.header .splashtext h2 {
+  font-size: 40px;
+  font-style: italic;
+}
+
+.header .splashtext h3 {
+  font-size: 75px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.header .container {
+  min-width: 1400px;
+  min-height: 700px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxTQUFBO0FBRUE7RUFDSSxxQkFBQTtFQUNBLGdCQUFBO0VBQ0EscUJBQUE7RUFDQSxhQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtFQUNBLHFCQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSx5QkFBQTtFQUNBLHFDQUFBO0FDQUo7O0FER0EsU0FBQTtBQUNBO0VBQ0ksaUJBQUE7RUFDQSxpQkFBQTtFQUNBLHFHQUFBO0VBQ0Esa0NBQUE7RUFDQSxzQkFBQTtFQUNBLHNCQUFBO0VBQ0EsK0JBQUE7QUNBSjs7QURJQTtFQUNJLGtCQUFBO0VBQ0EsZ0JBQUE7RUFDQSxpQkFBQTtFQUNBLGVBQUE7QUNESjs7QURLQTtFQUNJLGNBQUE7RUFDQSxxQkFBQTtFQUNBLHNDQUFBO0FDRko7O0FETUE7RUFDSSxrQkFBQTtFQUNBLGdCQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0FDSEo7O0FETUE7RUFDSSxZQUFBO0VBQ0EscUJBQUE7RUFDQSxtQkFBQTtFQUNBLHFDQUFBO0FDSEo7O0FETUE7RUFDSSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxrQkFBQTtBQ0hKOztBRE1BO0VBQ0ksZUFBQTtFQUNBLGtCQUFBO0FDSEo7O0FETUE7RUFDSSxlQUFBO0VBQ0EscUNBQUE7QUNISjs7QURNQTtFQUNJLGlCQUFBO0VBQ0EsaUJBQUE7QUNISiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */

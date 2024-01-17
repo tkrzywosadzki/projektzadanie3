@@ -1,0 +1,78 @@
+/*global*/
+
+.btn {
+    display: inline-block;
+    min-width: 160px;
+    margin: 0 auto 0 auto;
+    padding: 16px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    background-color:#f1c40f;
+    font-family: "Montserrat", sans-serif;
+}
+
+/*header*/
+.header {
+    min-width: 1400px;
+    min-height: 700px;
+    background-image:url(https://i.postimg.cc/3JH0rnb2/pexels-willian-justen-de-vasconcellos-792345.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-color: grey;
+    background-blend-mode: multiply;
+   
+}
+
+.header .logo {
+    text-align: center;
+    margin: 20px 0px;
+    padding-top: 30px;
+    font-size: 26px;
+
+}
+
+.header .logo a {
+    color: #f1c40f;
+    text-decoration: none;
+    font-family: "Dancing Script", cursive;
+    
+}
+
+.header .menubar {
+    text-align: center;
+    margin: 20px 0px;
+    padding-top: 40px;
+    font-size: 14px;
+}
+
+.header .menubar a {
+    color: white;
+    text-decoration: none;
+    padding-right: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.header .splashtext {
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+}
+
+.header .splashtext h2 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.header .splashtext h3 {
+    font-size: 75px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.header .container {
+    min-width: 1400px;
+    min-height: 700px;
+}
+
